@@ -1,4 +1,4 @@
-Just my first attempt on writing programm for osi model.
+Just my first attempt on writing a C programm for osi model.
 The programm takes user input and simulate all 7 layers of the model, 
 how is encapsulated as it passes through ---> from the Application layer down to Psysical layer.
 
